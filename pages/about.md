@@ -5,11 +5,8 @@ permalink: "/about/"
 image: assets/images/screenshot.png
 ---
 
-This website is a demonstration to see **Affiliates Jekyll theme** in action. 
+With **fincz.com** learn about personal finance, mutual funds, gold price today, share market tips, stock news, BSE and NSE India, insurance etc. See currency converter on dollar to rupee & rupee to all international market indices and more. You will learn best tutorials and expert tips.
 
-The theme is compatible with Github pages. This demo is created with Github Pages and hosted with Github. 
+Stay updated with fincz on Facebook, Instagram. You can as well subscribe to our email newsletter to get weekly Email alerts for free.
 
-Everything is ready for your quick setup: Blog, Categories, About, Privacy Policy, Terms of Use, Contact form, Mailchimp
-
-[Get it here](https://bootstrapstarter.com/jekyll-theme-memoirs/)
-
+To connect or any suggestion, feedback use fincz.com/[contact](https://fincz.com/contact)
