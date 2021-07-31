@@ -3,7 +3,7 @@ layout: post
 title:  "Share Market Kya Hai"
 author: Ahmad
 categories: [ Finance, Stock ]
-image: assets/images/2.jpg
+image: assets/images/share-market.png
 ---
 
 शेयर बाजार का परिचय
