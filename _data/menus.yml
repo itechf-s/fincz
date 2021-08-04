@@ -4,6 +4,9 @@ topmenu:
 - title: Home
   url: ""
 
+- title: Hindi
+  url: "hindi/"
+
 - title: About
   url: "about/"
 
@@ -20,7 +23,10 @@ footermenu:
 
 - title: Home
   url: ""
-
+  
+- title: Hindi
+  url: "hindi/"
+  
 - title: Privacy Policy
   url: "privacy-policy/"
 
