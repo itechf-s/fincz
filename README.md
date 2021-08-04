@@ -1,5 +1,8 @@
-# Affiliates - Free Jekyll Theme
+# Fincz.com
+Here you will learn how to Invest
 
-[Live Demo](https://wowthemesnet.github.io/affiliates-jekyll-theme/) | [Docs & Download](https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/) |  [Buy me a coffee](https://www.wowthemes.net/donate/)
+## How to Start Investing in Stocks
 
-![jekyll-affiliates-theme](https://bootstrapstarter.com/assets/img/themes/affiliates-jekyll.jpg)
+[Fincz](https://fincz.com/) Using [Docs & Download](https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/) 
+
+![Fincz](https://fincz.com/assets/images/fincz-default-image.png)
