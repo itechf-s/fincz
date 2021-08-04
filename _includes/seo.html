@@ -29,23 +29,23 @@
 {% endif %}  
 
 {% if page.url %}
-<link rel="canonical" href="{{site.siteurl}}{{ page.url | absolute_url }}" />
-<meta property="url" content="{{site.siteurl}}{{ page.url | absolute_url }}" />
-<meta property="og:url" content="{{site.siteurl}}{{ page.url | absolute_url }}" />
-<meta property="twitter:url" content="{{site.siteurl}}{{ page.url | absolute_url }}" />
+<link rel="canonical" href="{{ page.url | absolute_url }}" />
+<meta property="url" content="{{ page.url | absolute_url }}" />
+<meta property="og:url" content="{{ page.url | absolute_url }}" />
+<meta property="twitter:url" content="{{ page.url | absolute_url }}" />
     {% if page.locale == 'en' or post.locale == 'en' %}
-    <link rel="alternate" hreflang="en-us" href="{{site.siteurl}}{{ page.url | absolute_url }}">
+    <link rel="alternate" hreflang="en-us" href="{{ page.url | absolute_url }}">
     {% else if page.locale == 'hi' or post.locale == 'hi' %}
-    <link rel="alternate" hreflang="hi-in" href="{{site.siteurl}}{{ page.url | absolute_url }}">
-    <link rel="alternate" hreflang="x-default" href="{{site.siteurl}}" />
+    <link rel="alternate" hreflang="hi-in" href="{{ page.url | absolute_url }}">
+    <link rel="alternate" hreflang="x-default" href="" />
     {% else %}
-    <link rel="alternate" hreflang="x-default" href="{{site.siteurl}}" />
+    <link rel="alternate" hreflang="x-default" href="" />
     {% endif %}
 {% else %}
-<link rel="canonical" href="{{site.siteurl}}{{ site.baseurl | absolute_url }}" />
-<meta property="url" content="{{site.siteurl}}{{ site.baseurl | absolute_url }}" />
-<meta property="og:url" content="{{site.siteurl}}{{ site.baseurl | absolute_url }}" />
-<meta property="twitter:url" content="{{site.siteurl}}{{ site.baseurl | absolute_url }}" />
+<link rel="canonical" href="{{ site.baseurl | absolute_url }}" />
+<meta property="url" content="{{ site.baseurl | absolute_url }}" />
+<meta property="og:url" content="{{ site.baseurl | absolute_url }}" />
+<meta property="twitter:url" content="{{ site.baseurl | absolute_url }}" />
 {% endif %}
 
 {% if post.image and post.image != '' %} 
