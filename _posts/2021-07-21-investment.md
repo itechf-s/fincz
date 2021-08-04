@@ -6,18 +6,18 @@ locale: en
 permalink: /investment
 categories: [ Finance, Stock ]
 image: assets/images/investment-kya-hai.png
-excerpt: "इन्वेस्टमेंट यानी कि निवेश जिसमें हम अपनी कोई भी चीज कुछ समय के लिए लगाते है जिसमे आगे आने वाले समय में उससे और ज्यादा फायदा होने की उम्मीद करते हैं उसको इन्वेस्टमेंट कहते हैं।"
+excerpt: "Investment means investment in which we invest any of our things for some time. In which we expect more profit from it in the coming time, it is called investment."
 ---
 
-## इन्वेस्टमेंट क्या होता है
+## What Is Investment
 
-इन्वेस्टमेंट यानी कि निवेश जिसमें हम अपनी कोई भी चीज कुछ समय के लिए लगाते है जिसमे आगे आने वाले समय में उससे और ज्यादा फायदा होने की उम्मीद करते हैं उसको इन्वेस्टमेंट कहते हैं।
+Investment means investment in which we invest any of our things for some time.In which we expect more profit from it in the coming time, it is called investment.
 
 इन्वेस्टमेंट में समय पैसा या कोई भी और ऐसी चीज जिसको कि उस वक्त में अपने लिए इस्तेमाल ना करके उसको Block कर के रख दें इस उम्मीद में कि आने वाले टाइम में उससे और ज्यादा नफा होगा।
 
 इन्वेस्टमेंट को सही से समझाने के लिए यहां पर हम कुछ मिसाल दे रहे हैं जिससे कि आप आसानी से समझ सकते हैं
 
-### अखिरत की इन्वेस्टमेंट
+### Akhirat's Investment
 
 यह इन्वेस्टमेंट में सबसे best इन्वेस्टमेंट है। आखिरत यानी कि मरने के बाद का इन्वेस्टमेंट जिसमें की हम आज किसी को कुछ पैसे की मदद करके या उसकी सेवा करके या उसकी कुछ परेशानी दूर करके हम यह उम्मीद करते हैं कि इसका हमें सवाब मिलेगा।
 
