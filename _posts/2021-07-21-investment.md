@@ -13,9 +13,9 @@ excerpt: "Investment means investment in which we invest any of our things for s
 
 Investment means investment in which we invest any of our things for some time.In which we expect more profit from it in the coming time, it is called investment.
 
-इन्वेस्टमेंट में समय पैसा या कोई भी और ऐसी चीज जिसको कि उस वक्त में अपने लिए इस्तेमाल ना करके उसको Block कर के रख दें इस उम्मीद में कि आने वाले टाइम में उससे और ज्यादा नफा होगा।
+Time, money or any other such thing in investment, which should not be used for yourself at that time and keep it by blocking it.In the hope that there will be more profit from it in the coming time.
 
-इन्वेस्टमेंट को सही से समझाने के लिए यहां पर हम कुछ मिसाल दे रहे हैं जिससे कि आप आसानी से समझ सकते हैं
+To explain the investment properly, here we are giving some examples so that you can understand easily.
 
 ### Akhirat's Investment
 
@@ -27,18 +27,18 @@ Investment means investment in which we invest any of our things for some time.I
 
 इस लिए हम सभी को चाहिए कि अपने लिए कुछ न कुछ जरूर ऐसा काम कर ले जो मरने के बाद काम आए।
 
-### खेती में इन्वेस्टमेंट
+### Investment In Agriculture
 
 खेती करना भी एक इन्वेस्टमेंट है जिसमें किसान बीज को जमीन में इसलिए डालता है कि आगे चलकर उस बीज से और बहुत सारे फूल फल निकलेंगे अगर किसान को यह उम्मीद ना रहे कि इस बीज से कुछ फल निकलेगा तो 
 
 वह उस बीज को जमीन में डालकर इन्वेस्टमेंट नहीं करेगा, वह करता है तो इसी उम्मीद में कि यह बीज मई मिटटी में डाल कर इससे बहुत सारे फल फूल मिलेंगे जिसका उसको फायदा मिलेगा। 
 
-### तालीम में इन्वेस्टमेंट
+### Investment In Education
 
 तालीम यानी कि पढ़ाई लिखाई इसमें हम अपने बच्चों को बचपन से पढ़ने लिखने के लिए बोलते हैं और यह चाहते हैं कि वह पढ़ लिख कर के कामयाब हो। 
 मां बाप किसी भी तरह की तकलीफ उठा कर भी अपने बच्चों को इस उम्मीद में पढ़ाते हैं कि वह पढ़ लिख कर कामयाब हो जाएंगे जिससे उनको फायदा होगा तो यह भी एक तरीके का इन्वेस्टमेंट है।
 
-### वक्त का इंवेस्टमेंट
+### Time Investment
 
 जब कोई कहीं पर नौकरी करता है तो वह दरअसल अपने वक्त को वहां पर लगा रहा है और उसके बदले में कुछ फायदा यानी कि पैसा लेता है तो यह एक तरीके का इन्वेस्टमेंट है। 
 
@@ -46,7 +46,7 @@ Investment means investment in which we invest any of our things for some time.I
 
 इतनी मिसाल के बाद अब उम्मीद है की इन्वेस्टमेंट किसे कहते है आप समझ गए होंगे। अब आगे बात करते है की इन्वेस्टमेंट कितने तरह का होता है
 
-## इन्वेस्टमेंट कितने तरह का होता है
+## What Are The Types Of Investment
 
 ऊपर दी गई मिसाल में कुछ इन्वेस्टमेंट के बारे में आप जान गए होंगे अब आगे कुछ और इन्वेस्टमेंट जो बाकी रह गए हैं उनके बारे में देख लेते हैं।
 
@@ -136,12 +136,12 @@ Investment means investment in which we invest any of our things for some time.I
 
 इन सभी खर्च को पूरा करने के लिए काफी पहले से इन्वेस्टमेंट शुरू कर देना चाहिए।
 
-## निष्कर्स
+## Conclusions
 
-इन्वेस्टमेंट करना फायदा ही फायदा है नुकसान बहुत कम है। जितना हो सके बचत करें फिजूलखर्ची रोके और उसको इन्वेस्ट करें फिर चाहे वह गरीबों की मदद करके हो या फिर उसको प्रॉपर्टी खरीद कर हो या शेयर बाजार में लगाकर हो इन्वेस्टमेंट जरूर करें।
+Investing is the only profit, the loss is very less Save as much as possible, stop wasteful spending and invest it, whether it is by helping the poor or by buying property or investing in the stock market.
 
-अगर आपने पूरा आर्टिकल पढ़ा होगा तो आप इन्वेस्टमेंट के बारे में सभी बातें समझ गए होंगे अगर नहीं पढ़ा है तो यहां पर कुछ खास पॉइंट आपको बता देते हैं।
+If you have read the entire article, then you must have understood all the things about investment, if you have not read then here some special points tell you.
 
-इन्वेस्टमेंट करना वक्त की जरूरत है अगर आप पहले से कर रहे हैं तो बहुत ही अच्छा और अगर नहीं कर रहे हैं तो शुरू कर दें क्योंकि इसमें जितना लेट करेंगे उतना ही कम फायदा होगा।
+Investing is the need of the hour, if you are already doing it very well and if you are not doing it then start because the more you delay, the less benefit you will get.
 
-अगर आपको इस आर्टिकल में कुछ सीखने को मिला तो आप इस आर्टिकल को अपने जानने वालों के साथ भी शेयर करें और उनको भी बताएं।
+If you got to learn something in this article, then share this article with your friends and tell them also.
