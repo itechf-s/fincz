@@ -33,14 +33,14 @@
 <meta property="url" content="{{ page.url | absolute_url }}" />
 <meta property="og:url" content="{{ page.url | absolute_url }}" />
 <meta property="twitter:url" content="{{ page.url | absolute_url }}" />
-    {% if page.locale == 'en' or post.locale == 'en' %}
-    <link rel="alternate" hreflang="en-us" href="{{ page.url | absolute_url }}">
-    {% else if page.locale == 'hi' or post.locale == 'hi' %}
-    <link rel="alternate" hreflang="hi-in" href="{{ page.url | absolute_url }}">
-    <link rel="alternate" hreflang="x-default" href="" />
-    {% else %}
-    <link rel="alternate" hreflang="x-default" href="" />
-    {% endif %}
+{% if page.locale == 'en' or post.locale == 'en' %}
+<link rel="alternate" hreflang="en-us" href="{{ page.url | absolute_url }}">
+{% else if page.locale == 'hi' or post.locale == 'hi' %}
+<link rel="alternate" hreflang="hi-in" href="{{ page.url | absolute_url }}">
+<link rel="alternate" hreflang="x-default" href="" />
+{% else %}
+<link rel="alternate" hreflang="x-default" href="" />
+{% endif %}
 {% else %}
 <link rel="canonical" href="{{ site.baseurl | absolute_url }}" />
 <meta property="url" content="{{ site.baseurl | absolute_url }}" />
@@ -49,26 +49,24 @@
 {% endif %}
 
 {% if post.image and post.image != '' %} 
-<meta property="image" content="{{ post.image }}" />
-<meta property="og:image" content="{{ post.image }}" />
-<meta property="twitter:image" content="{{ post.image }}" />
+<meta property="image" content="{{ post.image | absolute_url }}" />
+<meta property="og:image" content="{{ post.image | absolute_url }}" />
+<meta property="twitter:image" content="{{ post.image | absolute_url }}" />
 {% else if page.image and page.image != '' %}
-<meta property="image" content="{{ page.image }}" />
-<meta property="og:image" content="{{ page.image }}" />
-<meta property="twitter:image" content="{{ page.image }}" />
+<meta property="image" content="{{ page.image | absolute_url }}" />
+<meta property="og:image" content="{{ page.image | absolute_url }}" />
+<meta property="twitter:image" content="{{ page.image | absolute_url }}" />
 {% else %}
-<meta property="image" content="{{ site.seo.image }}" />
-<meta property="og:image" content="{{ site.seo.image }}" />
-<meta property="twitter:image" content="{{ site.seo.image }}" />
+<meta property="image" content="{{ site.seo.image | absolute_url }}" />
+<meta property="og:image" content="{{ site.seo.image | absolute_url }}" />
+<meta property="twitter:image" content="{{ site.seo.image | absolute_url }}" />
 {% endif %}  
-
 <meta property="og:image:type" content="{{ site.seo.image-type }}" />
 <meta property="og:image:width" content="{{ site.seo.image-width }}" />
 <meta property="og:image:height" content="{{ site.seo.image-height }}" />
 <meta property="og:locale" content="{{ site.seo.locale }}" />
 <meta property="og:locale:alternate" content="{{ site.seo.locale-alternate }}" />
 <meta property="twitter:site" content="{{ site.seo.twitter-site }}" />
-
 
 {% if post.date %} 
 <meta property="datePublished" content="{{ post.date | date_to_xmlschema }}" />
