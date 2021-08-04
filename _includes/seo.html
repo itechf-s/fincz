@@ -68,9 +68,8 @@
 <meta property="og:locale:alternate" content="{{ site.seo.locale-alternate }}" />
 <meta property="twitter:site" content="{{ site.seo.twitter-site }}" />
 
-{% if post.date %} 
-<meta property="datePublished" content="{{ post.date | date_to_xmlschema }}" />
+{% if page.date %} 
+<meta property="datePublished" content="{{ page.date | date_to_xmlschema }}" />
 {% else %} 
 <meta property="datePublished" content="{{ site.seo.datePublished | date_to_xmlschema }}" />
 {% endif %} 
-

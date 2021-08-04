@@ -19,7 +19,6 @@ post_class: post-template
 			{% if page.image %}<img class="featured-image img-fluid rounded lazy" data-src="{{ site.baseurl }}/{{ page.image }}" alt="{{ page.title }}" src="{{ site.baseurl }}/{{ site.lazy_img }}">{% endif %}
 			<!-- End Featured Image -->
 			<div class="mainheading">             
-                
                 <!-- Post Categories -->
                 <div class="after-post-tags">
                     <ul class="tags">
@@ -32,6 +31,7 @@ post_class: post-template
                     </ul>
                 </div>
                 <!-- End Categories -->
+                {% include share.html %}
                 
                 <!-- Post Title -->
 				<h1 class="posttitle">{{ page.title }}</h1> 
@@ -56,7 +56,7 @@ post_class: post-template
                 </small>
             </p>
             
-			
+			{% include share.html %}
             
             <!-- Prev/Next -->
             <div class="row PageNavigation mt-4 prevnextlinks d-flex justify-content-between">
