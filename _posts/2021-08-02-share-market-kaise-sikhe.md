@@ -2,6 +2,8 @@
 layout: post
 title: "Share Market Kaise Sikhe"
 author: Nazir
+locale: hi
+permalink: /hindi/share-market-kaise-sike
 categories: [ Finance, Stock ]
 image: assets/images/share-market-kaise-sikhe.png
 ---

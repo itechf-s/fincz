@@ -1,9 +1,12 @@
 
 copyright: Fincz
 title: "How to Start Investing in Stocks"
-email: contact@theisalh.com
+description : "Best Blog For Business and Investment Tips for Share market, Online Earning, Loans, Credit Cards, Insurance Etc."
+email: fincz.it@gmail.com
 timezone: IST
+siteurl: 'https://fincz.com'
 baseurl: ''
+lazy_img: 'assets/images/fincz-lazy.png'
 permalink: "/:title/"
 logo: 'assets/images/fincz-logo-black.png'
 favicon: 'assets/images/apple-icon-black.png'
@@ -22,14 +25,13 @@ kramdown:
 sass:
   sass_dir: _sass
   style: :compressed
-ganalytics: 
-
+ganalytics: G-SP0MLCNXK8
 # Authors
 authors:
   Ahmad:
     name: Ahmad
     display_name: Ahmad
-    avatar: 'assets/images/Ahmad.png'
+    avatar: 'assets/images/ahmad.png'
     email: itechf@hotmail.com
     web: https://itechf.com
     twitter: https://twitter.com/itechf2
@@ -37,17 +39,27 @@ authors:
   Nazir:
     name: Nazir
     display_name: Nazir
-    avatar: 'assets/images/Nazir.png'
-    email: nazir@gmail.com
+    avatar: 'assets/images/nazir.png'
+    email: nazir@theislah.com
     web: https://bestrani.com
     twitter: https://twitter.com/bestrani3
     description: "Nazir has so much experience of content writing"
 
 # Social
 social:
-  instagram: https://www.instagram.com/fincz/
-  facebook: https://www.facebook.com/fincz
-  twitter: https://twitter.com/fincz
+#  instagram: https://www.instagram.com/fincz/
+  facebook: https://www.facebook.com/Share-Market-123554999895949
+  twitter: https://twitter.com/fincz1
+
+seo:
+  image: /assets/images/fincz-default-image.png
+  image-type: image/jpeg
+  image-width: 1200
+  image-height: 680
+  locale: en_US
+  locale-alternate: en_IN
+  twitter-site: '@Itechf1'
+  datePublished: 2021-07-31T08:00:00+530
 
 # Plugins
 plugins: 
