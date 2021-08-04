@@ -82,7 +82,7 @@ And we are not getting any return on his money, we never recommend this investme
 
 As we have discussed above, what are the types of investment. From that you must have understood that whether to invest or not, it also happens automatically. If we invest consciously, then we will get the benefit of it, otherwise the investment will be done unknowingly.
 
-It is a folly to not invest consciously, which will have to bear the consequences if not today or tomorrow.। 
+It is a folly to not invest consciously, which will have to bear the consequences if not today or tomorrow. 
 
 For example, if a child did not study well in his childhood, then later he has to bear the loss everywhere.
 
