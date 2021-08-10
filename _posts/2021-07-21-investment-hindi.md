@@ -6,6 +6,7 @@ locale: hi
 permalink: /hindi/investment
 categories: [ Finance, Stock ]
 image: assets/images/investment-kya-hai.png
+img:   height="680" width="1200" 
 excerpt: "इन्वेस्टमेंट यानी कि निवेश जिसमें हम अपनी कोई भी चीज कुछ समय के लिए लगाते है जिसमे आगे आने वाले समय में उससे और ज्यादा फायदा होने की उम्मीद करते हैं उसको इन्वेस्टमेंट कहते हैं।"
 yt-id: PPu8BHoZiQE
 ---
