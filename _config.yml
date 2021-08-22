@@ -5,7 +5,7 @@ description : "Best Blog For Business and Investment Tips for Share market, Onli
 email: fincz.it@gmail.com
 timezone: IST
 siteurl: 'https://fincz.com'
-baseurl: '/fincz'
+baseurl: ''
 lazy_img: 'assets/images/fincz-lazy.png'
 permalink: "/:title/"
 logo: 'assets/images/fincz-logo-black.png'
