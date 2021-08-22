@@ -5,7 +5,7 @@ author: Ahmad
 locale: hi
 permalink: /hindi/share-market
 categories: [ Finance, Stock ]
-image: assets/images/Introduction-share-market.png
+image: assets/images/share-market.png
 img:   height="680" width="1200" 
 excerpt: "शेयर मार्केट एक ऐसी मार्केट है जहां पर शेयर खरीद और बेच सकते हैं। शेयर किसी भी चीज का हिस्सा होता है जैसे यहां पर शेयर मार्केट में कंपनी होती है बहुत ही ज्यादा महंगी होती है जैसे कि वह कई हजार से लाख करोड़ों की कंपनी होती है। कोई भी इंसान अगर कंपनी खरीदना चाहे तो अकेला खरीद पाना नामुमकिन सा होता है।"
 yt-id: 5lYbTR5B8UU
