@@ -5,7 +5,7 @@ author: Ahmad
 locale: hi
 permalink: /hindi/share-market
 categories: [ Finance, Stock ]
-image: assets/images/Introduction-share-market.png
+image: assets/images/share-market-jankari.png
 img:   height="680" width="1200" 
 excerpt: "अच्छा शेयर चुनने का सीधा सा मतलब ये है की अच्छी कंपनी का शेयर खरीदें जिस कंपनी के बारे में आप जानते हैं जिस कंपनी का प्रोडक्ट यूज करते हैं अपने डेली लाइव में जिसमें कि आप यह देखते हैं कि प्रोडक्ट भी अच्छा है तो वह कंपनी जब प्रॉफिट कमाईगी तो वो हमेशा उसका शेयर प्राइस हमेशा बढ़ता ही जाएगा इस बात को फॉलो करके आप एक अच्छा शेयर चुन सकते हैं।"
 yt-id: 5lYbTR5B8UU
