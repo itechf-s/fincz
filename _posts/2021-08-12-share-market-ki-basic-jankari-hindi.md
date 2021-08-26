@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Share-Market-Basic Jankari"
+title: "Share-Market-Basic-ki-Jankari"
 author: Ahmad
 locale: hi
 permalink: /hindi/share-market
