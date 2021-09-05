@@ -3,7 +3,7 @@ layout: post
 title: "Share Market ki Basic Jankari"
 author: Ahmad
 locale: hi
-permalink: /hindi/share-market
+permalink: /hindi/share-market-basic
 categories: [ Finance, Stock ]
 image: assets/images/share-market-investor.png
 img:   height="680" width="1200" 
