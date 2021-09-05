@@ -5,7 +5,7 @@ author: Ahmad
 locale: hi
 permalink: /hindi/gold-investment
 categories: [ Finance, Stock ]
-image: assets/images/share-market-investor.png
+image: assets/images/share-price.png
 img:   height="680" width="1200" 
 excerpt: "इस आर्टिकल में हम बात करेंगे गोल्ड इन्वेस्टमेंट फॉर बिगनर्स, इसके अलावा हम लोग इससे जुड़ी हुई और बातें जैसे गोल्ड में इन्वेस्टमेंट, गोल्ड कितनी तरह से खरीद सकते हैं?, ज्वेलरी शॉप से खरीद सकते हैं,या ऑनलाइन, सॉवरेन गोल्ड बॉन्ड (एस.जी.बी) क्या है?, गोल्ड ई.टी.एफ क्या है? गोल्ड म्यूच्यूअल फंड क्या है"
 yt-id: qPOR_o4UV4w
